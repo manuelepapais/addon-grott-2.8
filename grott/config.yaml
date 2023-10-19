@@ -1,9 +1,9 @@
 ---
-name: Grott stable branch (2.7)
+name: Grott v2.8.2
 version: dev
 slug: grott
-description: The Growatt inverter monitor with current HA plugin integrated
-url: https://github.com/egguy/addon-grott
+description: The Growatt inverter monitor with current HA plugin integrated 2.8.2
+url: https://github.com/manuelepapais/addon-grott-2.8
 arch:
   - armhf
   - armv7
